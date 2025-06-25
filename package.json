@@ -16,5 +16,8 @@
     "url": "https://github.com/Kaadirm/Docker-Nodejs-Redis/issues"
   },
   "homepage": "https://github.com/Kaadirm/Docker-Nodejs-Redis#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
